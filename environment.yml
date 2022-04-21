@@ -1,0 +1,14 @@
+dependencies:
+  - python=3.5.4
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - tensorflow
+  - pip
+  - pip:
+    - treelib
+    - pathos
